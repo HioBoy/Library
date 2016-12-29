@@ -2,6 +2,6 @@
 
 int main(int argc, char **argv)
 {
-	fprintf(stdout, "hello World and github.com");
+	fprintf(stdout, "hello World and github.com\n");
 	return 0;
 }
